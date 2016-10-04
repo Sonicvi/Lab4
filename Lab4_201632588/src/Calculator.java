@@ -20,7 +20,7 @@ public class Calculator {
 		return 0;
 	}
 	
-	public String toString(){
+	public void toString(){
 		System.out.println("Leader name : sonicvi");
 		System.out.println("Leader ID : 201632588");
 		System.out.println("haeyong, dongjoo");
