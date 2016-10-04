@@ -1,8 +1,8 @@
 /*
  * Lab assignment 4
  * Team leader : Loc Villaum 201632588
- * Programmer A :
- * Programmer B : 
+ * Programmer A : haeyong 201120268
+ * Programmer B : dongjoo 201120287
  * 
  * github repository : https://github.com/Sonicvi/Lab4.git
  */
