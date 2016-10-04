@@ -1,5 +1,6 @@
 /*
  * Lab assignment 4
+<<<<<<< HEAD
 <<<<<<< Upstream, based on branch 'master' of https://github.com/Sonicvi/Lab4.git
  * Team leader : Loc Villaum 201632588
 =======
@@ -7,6 +8,11 @@
 >>>>>>> f2ad2f5 hi
  * Programmer A :
  * Programmer B : 
+=======
+ * Team leader : Loc Villaum 201632588
+ * Programmer A : haeyong 201120268
+ * Programmer B : dongjoo 201120287
+>>>>>>> branch 'master' of https://github.com/Sonicvi/Lab4.git
  * 
  * github repository : https://github.com/Sonicvi/Lab4.git
  */
@@ -38,11 +44,13 @@ public class Calculator {
 		
 	}
 	
+	
 	public void toString(){
 		System.out.println("Leader name : sonicvi");
 		System.out.println("Leader ID : 201632588");
-		System.out.println("haeyong, dongjoo");
+		System.out.println("Programmer A name : haeyong");
 		System.out.println("Programmer A's ID : 201120268");
+		System.out.println("Programmer A name : dongjoo");
 		System.out.println("Programmer B's ID : 201120287");
 		System.out.println("https://github.com/Sonicvi/Lab4.git");
 	}
