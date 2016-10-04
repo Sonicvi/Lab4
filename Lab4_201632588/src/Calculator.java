@@ -1,6 +1,6 @@
 /*
  * Lab assignment 4
- * Team leader : Loïc Villaumé 201632588
+ * Team leader : Loc Villaum 201632588
  * Programmer A :
  * Programmer B : 
  * 
@@ -19,4 +19,20 @@ public class Calculator {
 	public double divide(double x,double y){
 		return 0;
 	}
+	
+	public int add(int a, int b){
+		return a+b;
+	}
+	public int multiply(int a, int b){
+		return a*b;
+	}
+	public String toString(){
+		System.out.println("Leader name : sonicvi");
+		System.out.println("Leader ID : 201632588");
+		System.out.println("haeyong, dongjoo");
+		System.out.println("Programmer A's ID : 201120268");
+		System.out.println("Programmer B's ID : 201120287");
+		System.out.println("https://github.com/Sonicvi/Lab4.git");
+	}
 }
+
