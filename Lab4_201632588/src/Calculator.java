@@ -41,7 +41,7 @@ public class Calculator {
 	public void toString(){
 		System.out.println("Leader name : sonicvi");
 		System.out.println("Leader ID : 201632588");
-		System.out.println("haeyong, dongjoo");
+		System.out.println("haeyong,  dongjoo");
 		System.out.println("Programmer A's ID : 201120268");
 		System.out.println("Programmer B's ID : 201120287");
 		System.out.println("https://github.com/Sonicvi/Lab4.git");
